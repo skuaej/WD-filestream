@@ -1,6 +1,6 @@
 // ---------- Insert Your Data ---------- //
 
-const BOT_TOKEN = "09814685583:AAH_nJs7-OKiFuHkYedfhrQV5LjkCB5g"; // Insert your bot token.
+const BOT_TOKEN = "7971562001:AAEWwap92tO6FVJjwJyltcFll5crST8CdPY"; // Insert your bot token.
 const BOT_WEBHOOK = "/endpoint"; // Let it be as it is.
 const BOT_SECRET = "BOT_SECRET"; // Insert a powerful secret text.
 const BOT_OWNER = 0064350805; // Insert your telegram account id.
